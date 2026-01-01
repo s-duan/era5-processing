@@ -1,0 +1,295 @@
+nohup: ignoring input
+2025-12-31 23:48:04,621 INFO [2025-12-03T00:00:00Z] To improve our C3S service, we need to hear from you! Please complete this very short [survey](https://confluence.ecmwf.int/x/E7uBEQ/). Thank you.
+2025-12-31 23:48:05,795 INFO Request ID is b5173f05-9042-4911-adf2-6406cbdd706c
+2025-12-31 23:48:05,943 INFO status has been updated to accepted
+2025-12-31 23:48:19,873 INFO status has been updated to successful
+821c5fdba0f64e8fa8e5f04214b984c3.nc:   0%|          | 0.00/2.12M [00:00<?, ?B/s]821c5fdba0f64e8fa8e5f04214b984c3.nc:  47%|████▋     | 1.00M/2.12M [00:00<00:01, 1.05MB/s]821c5fdba0f64e8fa8e5f04214b984c3.nc:  95%|█████████▍| 2.00M/2.12M [00:01<00:00, 2.23MB/s]                                                                                         2025-12-31 23:48:22,613 INFO Request ID is bdf208ff-2250-4234-a909-ebea33c47499
+2025-12-31 23:48:22,750 INFO status has been updated to accepted
+2025-12-31 23:48:56,093 INFO status has been updated to successful
+f1c61ecad5ebdd6f8fb91d4aab399a17.nc:   0%|          | 0.00/2.11M [00:00<?, ?B/s]f1c61ecad5ebdd6f8fb91d4aab399a17.nc:  47%|████▋     | 1.00M/2.11M [00:01<00:01, 1.00MB/s]f1c61ecad5ebdd6f8fb91d4aab399a17.nc:  95%|█████████▍| 2.00M/2.11M [00:01<00:00, 2.13MB/s]                                                                                         2025-12-31 23:48:58,576 INFO Request ID is 1d7b52b5-7201-4202-a84a-ea82d5722aeb
+2025-12-31 23:48:58,700 INFO status has been updated to accepted
+2025-12-31 23:49:07,439 INFO status has been updated to running
+2025-12-31 23:49:12,624 INFO status has been updated to successful
+fe212d5a38de2ea84a07f76ce9312572.nc:   0%|          | 0.00/1.68M [00:00<?, ?B/s]fe212d5a38de2ea84a07f76ce9312572.nc:  60%|█████▉    | 1.00M/1.68M [00:01<00:00, 1.00MB/s]fe212d5a38de2ea84a07f76ce9312572.nc: 100%|██████████| 1.68M/1.68M [00:01<00:00, 1.73MB/s]                                                                                         2025-12-31 23:49:15,070 INFO Request ID is 2ec9f731-8d98-4ba3-bbf9-507ecf2993d9
+2025-12-31 23:49:15,193 INFO status has been updated to accepted
+2025-12-31 23:49:23,857 INFO status has been updated to running
+2025-12-31 23:49:29,037 INFO status has been updated to successful
+f6aec9615574a9d60091ecbe38a41d61.nc:   0%|          | 0.00/1.67M [00:00<?, ?B/s]f6aec9615574a9d60091ecbe38a41d61.nc:  60%|█████▉    | 1.00M/1.67M [00:01<00:00, 960kB/s]f6aec9615574a9d60091ecbe38a41d61.nc: 100%|██████████| 1.67M/1.67M [00:01<00:00, 1.66MB/s]                                                                                         2025-12-31 23:49:32,069 INFO Request ID is 4166849d-847a-4e6f-9e72-7b1593e20801
+2025-12-31 23:49:32,207 INFO status has been updated to accepted
+2025-12-31 23:49:46,043 INFO status has been updated to successful
+6240d400be703fbe46947bb7fef53c8c.nc:   0%|          | 0.00/1.72M [00:00<?, ?B/s]6240d400be703fbe46947bb7fef53c8c.nc:  58%|█████▊    | 1.00M/1.72M [00:01<00:00, 977kB/s]6240d400be703fbe46947bb7fef53c8c.nc: 100%|██████████| 1.72M/1.72M [00:01<00:00, 1.74MB/s]                                                                                         2025-12-31 23:49:48,486 INFO Request ID is 6eed2a71-c580-4619-a856-df856eb71953
+2025-12-31 23:49:48,617 INFO status has been updated to accepted
+2025-12-31 23:50:02,416 INFO status has been updated to successful
+445f9aab403a5b639cb21be2eaaf565a.nc:   0%|          | 0.00/277k [00:00<?, ?B/s]445f9aab403a5b639cb21be2eaaf565a.nc: 100%|██████████| 277k/277k [00:00<00:00, 375kB/s]                                                                                      2025-12-31 23:50:05,055 INFO Request ID is caba5286-6d16-4404-99d0-909d41e418a2
+2025-12-31 23:50:05,175 INFO status has been updated to accepted
+2025-12-31 23:50:14,582 INFO status has been updated to successful
+8810118f56b537601ab33d48444e8153.nc:   0%|          | 0.00/257k [00:00<?, ?B/s]8810118f56b537601ab33d48444e8153.nc: 100%|██████████| 257k/257k [00:01<00:00, 252kB/s]                                                                                      2025-12-31 23:50:16,907 INFO Request ID is 3ab7ad44-4f55-4a84-ab65-6b749ef75ab4
+2025-12-31 23:50:17,034 INFO status has been updated to accepted
+2025-12-31 23:50:38,571 INFO status has been updated to successful
+576af34c5a5a41adbe45dab273075b64.nc:   0%|          | 0.00/1.02M [00:00<?, ?B/s]576af34c5a5a41adbe45dab273075b64.nc:  98%|█████████▊| 1.00M/1.02M [00:01<00:00, 916kB/s]                                                                                        2025-12-31 23:50:40,949 INFO Request ID is 0e3b7354-d5d5-4373-8090-63f70421be12
+2025-12-31 23:50:41,094 INFO status has been updated to accepted
+2025-12-31 23:50:54,946 INFO status has been updated to running
+2025-12-31 23:51:02,679 INFO status has been updated to successful
+b264306633cf5dabbb9f8a458386f465.nc:   0%|          | 0.00/957k [00:00<?, ?B/s]b264306633cf5dabbb9f8a458386f465.nc: 100%|██████████| 957k/957k [00:01<00:00, 912kB/s]                                                                                      2025-12-31 23:51:05,420 INFO Request ID is 57da3dc0-eac6-4408-9430-a8826be230e8
+2025-12-31 23:51:05,552 INFO status has been updated to accepted
+2025-12-31 23:51:14,184 INFO status has been updated to running
+2025-12-31 23:51:19,370 INFO status has been updated to successful
+c8c3bea23b1b1e8b10913b888c4da5c9.nc:   0%|          | 0.00/366k [00:00<?, ?B/s]c8c3bea23b1b1e8b10913b888c4da5c9.nc: 100%|██████████| 366k/366k [00:01<00:00, 277kB/s]                                                                                      2025-12-31 23:51:22,341 INFO Request ID is b70624e9-b6a2-494c-bef2-d860bf6b523c
+2025-12-31 23:51:22,486 INFO status has been updated to accepted
+2025-12-31 23:51:44,033 INFO status has been updated to successful
+fe21afb6d84f50ce03f4707c0fbd7b7a.nc:   0%|          | 0.00/338k [00:00<?, ?B/s]fe21afb6d84f50ce03f4707c0fbd7b7a.nc: 100%|██████████| 338k/338k [00:00<00:00, 402kB/s]                                                                                      2025-12-31 23:51:46,237 INFO Request ID is c7f8d08c-39be-4136-bfaf-514dff5d548a
+2025-12-31 23:51:46,386 INFO status has been updated to accepted
+2025-12-31 23:52:00,200 INFO status has been updated to running
+2025-12-31 23:52:07,925 INFO status has been updated to successful
+f214b58617f29713c5ab7116838551f7.nc:   0%|          | 0.00/1.23M [00:00<?, ?B/s]f214b58617f29713c5ab7116838551f7.nc:  81%|████████▏ | 1.00M/1.23M [00:01<00:00, 737kB/s]                                                                                        2025-12-31 23:52:10,768 INFO Request ID is 20d474b7-4da3-4c9d-8206-f01be2fd41b1
+2025-12-31 23:52:10,918 INFO status has been updated to accepted
+2025-12-31 23:52:19,578 INFO status has been updated to running
+2025-12-31 23:54:05,587 INFO status has been updated to successful
+74aefef8c124eebda758071e7702af46.nc:   0%|          | 0.00/1.98M [00:00<?, ?B/s]74aefef8c124eebda758071e7702af46.nc:  51%|█████     | 1.00M/1.98M [00:01<00:01, 609kB/s]74aefef8c124eebda758071e7702af46.nc: 100%|██████████| 1.98M/1.98M [00:01<00:00, 1.35MB/s]                                                                                         2025-12-31 23:54:08,883 INFO Request ID is 8a62c8ba-2186-4dc4-ba65-040e79320533
+2025-12-31 23:54:09,015 INFO status has been updated to accepted
+2025-12-31 23:54:22,854 INFO status has been updated to running
+2025-12-31 23:54:59,322 INFO status has been updated to successful
+860316bae58cf0b45bbbd3db2d5f31b3.nc:   0%|          | 0.00/1.97M [00:00<?, ?B/s]860316bae58cf0b45bbbd3db2d5f31b3.nc:  51%|█████     | 1.00M/1.97M [00:01<00:01, 1.01MB/s]860316bae58cf0b45bbbd3db2d5f31b3.nc: 100%|██████████| 1.97M/1.97M [00:01<00:00, 2.10MB/s]                                                                                         2025-12-31 23:55:02,203 INFO Request ID is 4798397f-6a71-488f-b5b4-28a2666d2085
+2025-12-31 23:55:02,325 INFO status has been updated to accepted
+2025-12-31 23:55:16,231 INFO status has been updated to running
+2025-12-31 23:56:57,019 INFO status has been updated to successful
+fb5103138239b6b38875bcbc73310e14.nc:   0%|          | 0.00/1.58M [00:00<?, ?B/s]fb5103138239b6b38875bcbc73310e14.nc:  63%|██████▎   | 1.00M/1.58M [00:01<00:00, 1.01MB/s]                                                                                         2025-12-31 23:56:59,331 INFO Request ID is 1ccd52e5-c659-4b02-be62-b7ac02628911
+2025-12-31 23:56:59,470 INFO status has been updated to accepted
+2025-12-31 23:57:08,125 INFO status has been updated to running
+2025-12-31 23:57:49,775 INFO status has been updated to successful
+fa3bb122a0c77c98b834dcb05af9838.nc:   0%|          | 0.00/1.57M [00:00<?, ?B/s]fa3bb122a0c77c98b834dcb05af9838.nc:  64%|██████▍   | 1.00M/1.57M [00:01<00:00, 1.00MB/s]fa3bb122a0c77c98b834dcb05af9838.nc: 100%|██████████| 1.57M/1.57M [00:01<00:00, 1.54MB/s]                                                                                        2025-12-31 23:57:52,197 INFO Request ID is 5c4e401e-5856-4753-b578-598f49c128f2
+2025-12-31 23:57:52,317 INFO status has been updated to accepted
+2025-12-31 23:58:01,040 INFO status has been updated to running
+2025-12-31 23:59:08,451 INFO status has been updated to successful
+d4693b3c35be6dfc86cd4cff345dd43d.nc:   0%|          | 0.00/1.61M [00:00<?, ?B/s]d4693b3c35be6dfc86cd4cff345dd43d.nc:  62%|██████▏   | 1.00M/1.61M [00:01<00:00, 1.00MB/s]                                                                                         2025-12-31 23:59:11,063 INFO Request ID is 14ce5301-61b4-48f6-8a2c-bbbd26001f6a
+2025-12-31 23:59:11,198 INFO status has been updated to accepted
+2025-12-31 23:59:25,031 INFO status has been updated to running
+2026-01-01 00:00:27,253 INFO status has been updated to successful
+50d243529411cfe99500b97974028b4f.nc:   0%|          | 0.00/266k [00:00<?, ?B/s]50d243529411cfe99500b97974028b4f.nc: 100%|██████████| 266k/266k [00:01<00:00, 249kB/s]                                                                                      2026-01-01 00:00:30,001 INFO Request ID is f10474e6-4cde-489e-bee0-728ee9a5308a
+2026-01-01 00:00:30,155 INFO status has been updated to accepted
+2026-01-01 00:00:51,911 INFO status has been updated to running
+2026-01-01 00:02:25,676 INFO status has been updated to successful
+eb1ab342f168cb29b89323fff44263a1.nc:   0%|          | 0.00/246k [00:00<?, ?B/s]eb1ab342f168cb29b89323fff44263a1.nc: 100%|██████████| 246k/246k [00:00<00:00, 300kB/s]                                                                                      2026-01-01 00:02:27,842 INFO Request ID is 1a6150b5-7e5c-46d5-82c6-ce2b59325f14
+2026-01-01 00:02:27,978 INFO status has been updated to accepted
+2026-01-01 00:02:41,821 INFO status has been updated to running
+2026-01-01 00:03:44,077 INFO status has been updated to successful
+6cf4fb39256357b43d48cc5f6eda2aba.nc:   0%|          | 0.00/1.01M [00:00<?, ?B/s]6cf4fb39256357b43d48cc5f6eda2aba.nc:  99%|█████████▊| 1.00M/1.01M [00:01<00:00, 1.03MB/s]                                                                                         2026-01-01 00:03:46,345 INFO Request ID is 28a59e0d-80ec-4e9b-8ba1-53b71595879c
+2026-01-01 00:03:46,485 INFO status has been updated to accepted
+2026-01-01 00:04:19,681 INFO status has been updated to running
+2026-01-01 00:05:02,662 INFO status has been updated to successful
+8c9446acf102ce85fb7c668ee060aa5d.nc:   0%|          | 0.00/968k [00:00<?, ?B/s]8c9446acf102ce85fb7c668ee060aa5d.nc: 100%|██████████| 968k/968k [00:01<00:00, 662kB/s]                                                                                      2026-01-01 00:05:05,856 INFO Request ID is a8440458-935f-4160-8797-6775f0e5360a
+2026-01-01 00:05:05,989 INFO status has been updated to accepted
+2026-01-01 00:05:27,563 INFO status has been updated to running
+2026-01-01 00:07:00,671 INFO status has been updated to successful
+e3066982d0b4b4542a99e4dc24481f21.nc:   0%|          | 0.00/343k [00:00<?, ?B/s]e3066982d0b4b4542a99e4dc24481f21.nc: 100%|██████████| 343k/343k [00:00<00:00, 484kB/s]                                                                                      2026-01-01 00:07:02,928 INFO Request ID is 3e70ef08-d68b-4266-b568-d3901e4bfd0c
+2026-01-01 00:07:03,099 INFO status has been updated to accepted
+2026-01-01 00:07:36,210 INFO status has been updated to running
+2026-01-01 00:08:19,641 INFO status has been updated to successful
+4d580888f20b030c2ddda17121526493.nc:   0%|          | 0.00/319k [00:00<?, ?B/s]4d580888f20b030c2ddda17121526493.nc: 100%|██████████| 319k/319k [00:01<00:00, 290kB/s]                                                                                      2026-01-01 00:08:22,098 INFO Request ID is 9d1334dd-442a-4b90-9c8d-4fb76e72fdc3
+2026-01-01 00:08:22,220 INFO status has been updated to accepted
+2026-01-01 00:08:31,085 INFO status has been updated to running
+2026-01-01 00:09:38,512 INFO status has been updated to successful
+9f9d03e39c0184e933f0e491211e8d17.nc:   0%|          | 0.00/1.06M [00:00<?, ?B/s]9f9d03e39c0184e933f0e491211e8d17.nc:  95%|█████████▍| 1.00M/1.06M [00:01<00:00, 1.01MB/s]                                                                                         2026-01-01 00:09:40,828 INFO Request ID is 2f37d01f-70bd-427c-8b1f-45edaa319347
+2026-01-01 00:09:40,964 INFO status has been updated to accepted
+2026-01-01 00:09:51,330 INFO status has been updated to running
+2026-01-01 00:11:37,322 INFO status has been updated to successful
+b1851683de6448b1b4c15c88cad447c5.nc:   0%|          | 0.00/2.09M [00:00<?, ?B/s]b1851683de6448b1b4c15c88cad447c5.nc:  48%|████▊     | 1.00M/2.09M [00:01<00:01, 916kB/s]b1851683de6448b1b4c15c88cad447c5.nc:  96%|█████████▌| 2.00M/2.09M [00:01<00:00, 1.97MB/s]                                                                                         2026-01-01 00:11:40,068 INFO Request ID is 0bc07aed-54be-4283-9d1b-833b2acdc37c
+2026-01-01 00:11:40,209 INFO status has been updated to accepted
+2026-01-01 00:11:54,094 INFO status has been updated to running
+2026-01-01 00:13:36,467 INFO status has been updated to successful
+72ca69919f8eeb565e107cdfa7ea962e.nc:   0%|          | 0.00/2.09M [00:00<?, ?B/s]72ca69919f8eeb565e107cdfa7ea962e.nc:  48%|████▊     | 1.00M/2.09M [00:01<00:01, 859kB/s]72ca69919f8eeb565e107cdfa7ea962e.nc:  96%|█████████▌| 2.00M/2.09M [00:01<00:00, 1.86MB/s]                                                                                         2026-01-01 00:13:39,333 INFO Request ID is d6628068-31c7-4386-81c0-6f9eeb17f718
+2026-01-01 00:13:39,484 INFO status has been updated to accepted
+2026-01-01 00:13:53,339 INFO status has been updated to running
+2026-01-01 00:15:34,129 INFO status has been updated to successful
+3c4735e7521b35e142d641501ac0ef5c.nc:   0%|          | 0.00/1.67M [00:00<?, ?B/s]3c4735e7521b35e142d641501ac0ef5c.nc:  60%|██████    | 1.00M/1.67M [00:01<00:00, 978kB/s]3c4735e7521b35e142d641501ac0ef5c.nc: 100%|██████████| 1.67M/1.67M [00:01<00:00, 1.67MB/s]                                                                                         2026-01-01 00:15:36,810 INFO Request ID is 02129c2d-f197-4f23-91b6-2d4852e4f34c
+2026-01-01 00:15:36,943 INFO status has been updated to accepted
+2026-01-01 00:16:27,426 INFO status has been updated to running
+2026-01-01 00:17:31,795 INFO status has been updated to successful
+4f51c779c104916cace222e0a2515e61.nc:   0%|          | 0.00/1.66M [00:00<?, ?B/s]4f51c779c104916cace222e0a2515e61.nc:  60%|██████    | 1.00M/1.66M [00:01<00:00, 978kB/s]4f51c779c104916cace222e0a2515e61.nc: 100%|██████████| 1.66M/1.66M [00:01<00:00, 1.66MB/s]                                                                                         2026-01-01 00:17:34,300 INFO Request ID is 8873d970-d712-4a5c-a72a-492e9e912e40
+2026-01-01 00:17:34,431 INFO status has been updated to accepted
+2026-01-01 00:17:48,284 INFO status has been updated to running
+2026-01-01 00:19:29,239 INFO status has been updated to successful
+5865ec144abb7fc8cc81b8a9fd4df4f7.nc:   0%|          | 0.00/1.72M [00:00<?, ?B/s]5865ec144abb7fc8cc81b8a9fd4df4f7.nc:  58%|█████▊    | 1.00M/1.72M [00:01<00:00, 976kB/s]5865ec144abb7fc8cc81b8a9fd4df4f7.nc: 100%|██████████| 1.72M/1.72M [00:01<00:00, 1.73MB/s]                                                                                         2026-01-01 00:19:32,010 INFO Request ID is 710c6ba2-a2ff-4034-aea5-d89ada3dd42d
+2026-01-01 00:19:32,139 INFO status has been updated to accepted
+2026-01-01 00:19:45,957 INFO status has been updated to running
+2026-01-01 00:21:26,748 INFO status has been updated to successful
+90456162bd1e0e5ca62b60d2f598b4d6.nc:   0%|          | 0.00/277k [00:00<?, ?B/s]90456162bd1e0e5ca62b60d2f598b4d6.nc: 100%|██████████| 277k/277k [00:01<00:00, 251kB/s]                                                                                      2026-01-01 00:21:29,230 INFO Request ID is 22d9cb79-b7e4-45b5-9016-df4933b2256e
+2026-01-01 00:21:29,370 INFO status has been updated to accepted
+2026-01-01 00:21:50,935 INFO status has been updated to running
+2026-01-01 00:23:24,001 INFO status has been updated to successful
+440982a8fe30a485bbd499cdf75aa619.nc:   0%|          | 0.00/257k [00:00<?, ?B/s]440982a8fe30a485bbd499cdf75aa619.nc: 100%|██████████| 257k/257k [00:00<00:00, 284kB/s]                                                                                      2026-01-01 00:23:26,125 INFO Request ID is 3021e482-3546-4969-92a5-d241bd5c00a8
+2026-01-01 00:23:26,262 INFO status has been updated to accepted
+2026-01-01 00:23:40,731 INFO status has been updated to running
+2026-01-01 00:25:21,880 INFO status has been updated to successful
+9e6c46050f1430c710d2e9e5a63ce50.nc:   0%|          | 0.00/1.22M [00:00<?, ?B/s]9e6c46050f1430c710d2e9e5a63ce50.nc:  82%|████████▏ | 1.00M/1.22M [00:01<00:00, 981kB/s]                                                                                       2026-01-01 00:25:24,654 INFO Request ID is 48da596c-0c48-4fe6-ba6d-44e671dcb8e3
+2026-01-01 00:25:24,792 INFO status has been updated to accepted
+2026-01-01 00:25:33,456 INFO status has been updated to running
+2026-01-01 00:27:19,464 INFO status has been updated to successful
+6deaa29a2cd23a7144a4098b56a29d64.nc:   0%|          | 0.00/1.16M [00:00<?, ?B/s]6deaa29a2cd23a7144a4098b56a29d64.nc:  86%|████████▋ | 1.00M/1.16M [00:01<00:00, 892kB/s]                                                                                        2026-01-01 00:27:21,939 INFO Request ID is ae53bffe-06c2-4792-9686-5fe966209316
+2026-01-01 00:27:22,069 INFO status has been updated to accepted
+2026-01-01 00:27:35,905 INFO status has been updated to running
+2026-01-01 00:29:16,722 INFO status has been updated to successful
+8b32ab48dbc84dbed6a1746c3c961668.nc:   0%|          | 0.00/366k [00:00<?, ?B/s]8b32ab48dbc84dbed6a1746c3c961668.nc: 100%|██████████| 366k/366k [00:01<00:00, 318kB/s]                                                                                      2026-01-01 00:29:19,229 INFO Request ID is 4599d880-48d6-466f-b6a5-f7e8ad3702c8
+2026-01-01 00:29:19,359 INFO status has been updated to accepted
+2026-01-01 00:29:28,009 INFO status has been updated to running
+2026-01-01 00:30:35,514 INFO status has been updated to successful
+a928660e147b528c4b99f294bdcff48.nc:   0%|          | 0.00/338k [00:00<?, ?B/s]a928660e147b528c4b99f294bdcff48.nc: 100%|██████████| 338k/338k [00:01<00:00, 269kB/s]                                                                                     2026-01-01 00:30:38,428 INFO Request ID is d9245378-11af-48cb-9a75-9d0a5d3ecf75
+2026-01-01 00:30:38,560 INFO status has been updated to accepted
+2026-01-01 00:30:52,461 INFO status has been updated to running
+2026-01-01 00:31:11,710 INFO status has been updated to accepted
+2026-01-01 00:31:28,934 INFO status has been updated to running
+2026-01-01 00:32:33,280 INFO status has been updated to successful
+9753e9c45528a48316101b34b59165b8.nc:   0%|          | 0.00/1.16M [00:00<?, ?B/s]9753e9c45528a48316101b34b59165b8.nc:  86%|████████▋ | 1.00M/1.16M [00:00<00:00, 1.12MB/s]                                                                                         2026-01-01 00:32:35,331 INFO Request ID is 8b57b0b5-4c08-4034-a72a-0f46c7682539
+2026-01-01 00:32:35,482 INFO status has been updated to accepted
+2026-01-01 00:32:44,158 INFO status has been updated to running
+2026-01-01 00:33:51,553 INFO status has been updated to successful
+fa82855ec5fd9e6914ffb82fc13d5a6a.nc:   0%|          | 0.00/2.03M [00:00<?, ?B/s]fa82855ec5fd9e6914ffb82fc13d5a6a.nc:  49%|████▉     | 1.00M/2.03M [00:01<00:01, 955kB/s]fa82855ec5fd9e6914ffb82fc13d5a6a.nc:  99%|█████████▊| 2.00M/2.03M [00:01<00:00, 2.04MB/s]                                                                                         2026-01-01 00:33:54,075 INFO Request ID is 4c79a6d6-7ecb-4086-bfad-8f40732a75cd
+2026-01-01 00:33:54,213 INFO status has been updated to accepted
+2026-01-01 00:34:44,605 INFO status has been updated to running
+2026-01-01 00:35:48,959 INFO status has been updated to successful
+2b115ea7898f83ccb7d2c67561764fd1.nc:   0%|          | 0.00/2.02M [00:00<?, ?B/s]2b115ea7898f83ccb7d2c67561764fd1.nc:  49%|████▉     | 1.00M/2.02M [00:01<00:01, 902kB/s]2b115ea7898f83ccb7d2c67561764fd1.nc:  99%|█████████▉| 2.00M/2.02M [00:01<00:00, 1.94MB/s]                                                                                         2026-01-01 00:35:51,986 INFO Request ID is 99c2ca00-bb4b-428b-b286-63e888053bfe
+2026-01-01 00:35:52,128 INFO status has been updated to accepted
+2026-01-01 00:36:00,837 INFO status has been updated to running
+2026-01-01 00:37:09,113 INFO status has been updated to successful
+e5e10c9868482784bf559d9196264abd.nc:   0%|          | 0.00/1.62M [00:00<?, ?B/s]e5e10c9868482784bf559d9196264abd.nc:  62%|██████▏   | 1.00M/1.62M [00:00<00:00, 1.06MB/s]e5e10c9868482784bf559d9196264abd.nc: 100%|██████████| 1.62M/1.62M [00:01<00:00, 1.33MB/s]                                                                                         2026-01-01 00:37:12,827 INFO Request ID is aa467cd8-942c-436d-8523-1cca7bbc7816
+2026-01-01 00:37:13,026 INFO status has been updated to accepted
+2026-01-01 00:37:26,911 INFO status has been updated to running
+2026-01-01 00:38:29,319 INFO status has been updated to successful
+d1b5b35381be5515d1290688de8ce806.nc:   0%|          | 0.00/1.60M [00:00<?, ?B/s]d1b5b35381be5515d1290688de8ce806.nc:  62%|██████▏   | 1.00M/1.60M [00:07<00:04, 147kB/s]d1b5b35381be5515d1290688de8ce806.nc: 100%|██████████| 1.60M/1.60M [00:10<00:00, 164kB/s]                                                                                        2026-01-01 00:38:41,179 INFO Request ID is 9528c1cb-7fa6-46a9-a7b0-99c5414fbb7d
+2026-01-01 00:38:41,312 INFO status has been updated to accepted
+2026-01-01 00:39:14,391 INFO status has been updated to running
+2026-01-01 00:40:35,948 INFO status has been updated to successful
+5c633904ac175af914c6312f3a3db9c0.nc:   0%|          | 0.00/1.66M [00:00<?, ?B/s]5c633904ac175af914c6312f3a3db9c0.nc:  60%|██████    | 1.00M/1.66M [00:01<00:00, 838kB/s]5c633904ac175af914c6312f3a3db9c0.nc: 100%|██████████| 1.66M/1.66M [00:01<00:00, 1.10MB/s]                                                                                         2026-01-01 00:40:38,949 INFO Request ID is b93a639a-0231-459f-8a44-b174949b761e
+2026-01-01 00:40:39,068 INFO status has been updated to accepted
+2026-01-01 00:41:00,644 INFO status has been updated to running
+2026-01-01 00:41:55,127 INFO status has been updated to successful
+c036eb81266b3a0c8593b58ee51b732c.nc:   0%|          | 0.00/272k [00:00<?, ?B/s]c036eb81266b3a0c8593b58ee51b732c.nc: 100%|██████████| 272k/272k [00:01<00:00, 242kB/s]                                                                                      2026-01-01 00:41:57,770 INFO Request ID is 30f42839-9f4d-40fb-a409-0327e11cd19c
+2026-01-01 00:41:57,904 INFO status has been updated to accepted
+2026-01-01 00:42:06,585 INFO status has been updated to running
+2026-01-01 00:43:52,560 INFO status has been updated to successful
+beee0e7d1b4f14883d1eb0b1a9afe916.nc:   0%|          | 0.00/251k [00:00<?, ?B/s]beee0e7d1b4f14883d1eb0b1a9afe916.nc: 100%|██████████| 251k/251k [00:00<00:00, 301kB/s]                                                                                      2026-01-01 00:43:55,009 INFO Request ID is 58b46197-6eaa-4ecc-bb9c-db080c0a9cbf
+2026-01-01 00:43:55,146 INFO status has been updated to accepted
+2026-01-01 00:44:45,610 INFO status has been updated to running
+2026-01-01 00:45:49,953 INFO status has been updated to successful
+4f6d1ac7d0428bf198141f286b119e5b.nc:   0%|          | 0.00/1.23M [00:00<?, ?B/s]4f6d1ac7d0428bf198141f286b119e5b.nc:  81%|████████  | 1.00M/1.23M [00:02<00:00, 433kB/s]4f6d1ac7d0428bf198141f286b119e5b.nc: 100%|██████████| 1.23M/1.23M [00:02<00:00, 481kB/s]                                                                                        2026-01-01 00:45:54,833 INFO Request ID is 4f7aa9c3-3efd-475f-8f1e-d26be7e80546
+2026-01-01 00:45:54,965 INFO status has been updated to accepted
+2026-01-01 00:46:08,830 INFO status has been updated to running
+2026-01-01 00:47:49,642 INFO status has been updated to successful
+55954f81941ba55519826f880314efe6.nc:   0%|          | 0.00/1.17M [00:00<?, ?B/s]55954f81941ba55519826f880314efe6.nc:  86%|████████▌ | 1.00M/1.17M [00:01<00:00, 985kB/s]                                                                                        2026-01-01 00:47:52,054 INFO Request ID is 0ef57bac-686e-473b-b1d7-007298914cc5
+2026-01-01 00:47:52,189 INFO status has been updated to accepted
+2026-01-01 00:48:26,442 INFO status has been updated to running
+2026-01-01 00:50:46,282 INFO status has been updated to successful
+48cd32874f9737fc27776b765a14d2ea.nc:   0%|          | 0.00/356k [00:00<?, ?B/s]48cd32874f9737fc27776b765a14d2ea.nc: 100%|██████████| 356k/356k [00:01<00:00, 363kB/s]                                                                                      2026-01-01 00:50:48,972 INFO Request ID is 5a803b38-5c56-4356-9f12-c4f6f50c07e2
+2026-01-01 00:50:49,113 INFO status has been updated to accepted
+2026-01-01 00:51:02,977 INFO status has been updated to running
+2026-01-01 00:52:05,193 INFO status has been updated to successful
+787a7d7cccc5f3e8fa2ee44851648504.nc:   0%|          | 0.00/328k [00:00<?, ?B/s]787a7d7cccc5f3e8fa2ee44851648504.nc: 100%|██████████| 328k/328k [00:01<00:00, 292kB/s]                                                                                      2026-01-01 00:52:07,918 INFO Request ID is 8f4e5335-1a1a-4670-b0f1-e2a4d8ebb1a0
+2026-01-01 00:52:08,053 INFO status has been updated to accepted
+2026-01-01 00:52:29,655 INFO status has been updated to running
+2026-01-01 00:52:41,166 INFO status has been updated to accepted
+2026-01-01 00:52:58,369 INFO status has been updated to running
+2026-01-01 00:54:02,733 INFO status has been updated to successful
+635abb537e1a7083eacdb2bc821dbbf7.nc:   0%|          | 0.00/1.02M [00:00<?, ?B/s]635abb537e1a7083eacdb2bc821dbbf7.nc:  98%|█████████▊| 1.00M/1.02M [00:01<00:00, 963kB/s]                                                                                        2026-01-01 00:54:05,383 INFO Request ID is c6019547-7db8-417a-9fa1-d9eb8db2a8db
+2026-01-01 00:54:05,513 INFO status has been updated to accepted
+2026-01-01 00:54:27,037 INFO status has been updated to running
+2026-01-01 00:56:00,083 INFO status has been updated to successful
+c402a3ff18578b4198734a434f801777.nc:   0%|          | 0.00/2.09M [00:00<?, ?B/s]c402a3ff18578b4198734a434f801777.nc:  48%|████▊     | 1.00M/2.09M [00:01<00:01, 680kB/s]c402a3ff18578b4198734a434f801777.nc:  96%|█████████▌| 2.00M/2.09M [00:01<00:00, 1.51MB/s]                                                                                         2026-01-01 00:56:03,198 INFO Request ID is 289df16d-ee05-4c14-ac01-c1b5bb9d9a1b
+2026-01-01 00:56:03,329 INFO status has been updated to accepted
+2026-01-01 00:56:11,957 INFO status has been updated to running
+2026-01-01 00:57:58,126 INFO status has been updated to successful
+ad96ab54276d4d95c7fafd8ac97cd123.nc:   0%|          | 0.00/2.09M [00:00<?, ?B/s]ad96ab54276d4d95c7fafd8ac97cd123.nc:  48%|████▊     | 1.00M/2.09M [00:01<00:01, 1.02MB/s]ad96ab54276d4d95c7fafd8ac97cd123.nc:  96%|█████████▌| 2.00M/2.09M [00:01<00:00, 2.17MB/s]                                                                                         2026-01-01 00:58:00,593 INFO Request ID is 34a239d8-028d-4d14-84d3-039dce1bd753
+2026-01-01 00:58:00,725 INFO status has been updated to accepted
+2026-01-01 00:58:14,568 INFO status has been updated to running
+2026-01-01 00:59:55,336 INFO status has been updated to successful
+49dbae45219bfe668b90cc14a22d76f3.nc:   0%|          | 0.00/1.66M [00:00<?, ?B/s]49dbae45219bfe668b90cc14a22d76f3.nc:  60%|██████    | 1.00M/1.66M [00:01<00:00, 861kB/s]49dbae45219bfe668b90cc14a22d76f3.nc: 100%|██████████| 1.66M/1.66M [00:01<00:00, 1.42MB/s]                                                                                         2026-01-01 00:59:57,935 INFO Request ID is 8ee459ba-b4c3-48f6-9347-f5c36eed2124
+2026-01-01 00:59:58,076 INFO status has been updated to accepted
+2026-01-01 01:00:33,823 INFO status has been updated to running
+2026-01-01 01:01:55,382 INFO status has been updated to successful
+4c9a3c58081ab4d0cb61d047f46a864.nc:   0%|          | 0.00/1.65M [00:00<?, ?B/s]4c9a3c58081ab4d0cb61d047f46a864.nc:  61%|██████    | 1.00M/1.65M [00:01<00:00, 724kB/s]                                                                                       2026-01-01 01:01:58,378 INFO Request ID is efa727f1-faed-49cf-adda-71029361572a
+2026-01-01 01:01:58,493 INFO status has been updated to accepted
+2026-01-01 01:02:12,303 INFO status has been updated to running
+2026-01-01 01:03:53,109 INFO status has been updated to successful
+942ba34ca2e4dcd88971da8430f401fa.nc:   0%|          | 0.00/1.71M [00:00<?, ?B/s]942ba34ca2e4dcd88971da8430f401fa.nc:  59%|█████▊    | 1.00M/1.71M [00:01<00:00, 913kB/s]942ba34ca2e4dcd88971da8430f401fa.nc: 100%|██████████| 1.71M/1.71M [00:01<00:00, 1.63MB/s]                                                                                         2026-01-01 01:03:56,114 INFO Request ID is c8db43ba-abba-428e-b81d-c79606bd00e0
+2026-01-01 01:03:56,247 INFO status has been updated to accepted
+2026-01-01 01:04:10,194 INFO status has been updated to running
+2026-01-01 01:05:50,995 INFO status has been updated to successful
+7f4ee40633f06b83f52ebd0b48a25e7c.nc:   0%|          | 0.00/277k [00:00<?, ?B/s]7f4ee40633f06b83f52ebd0b48a25e7c.nc: 100%|██████████| 277k/277k [00:00<00:00, 328kB/s]                                                                                      2026-01-01 01:05:53,201 INFO Request ID is acea80f7-0ef2-40ea-9c71-761f695f7e9f
+2026-01-01 01:05:53,339 INFO status has been updated to accepted
+2026-01-01 01:06:26,456 INFO status has been updated to running
+2026-01-01 01:07:48,565 INFO status has been updated to successful
+4a478c7490654f1b6e3c33cffaf01656.nc:   0%|          | 0.00/257k [00:00<?, ?B/s]4a478c7490654f1b6e3c33cffaf01656.nc: 100%|██████████| 257k/257k [00:01<00:00, 158kB/s]                                                                                      2026-01-01 01:07:51,911 INFO Request ID is 0f4aee07-89a0-4b60-9e29-d4f5672471ec
+2026-01-01 01:07:52,044 INFO status has been updated to accepted
+2026-01-01 01:08:06,039 INFO status has been updated to running
+2026-01-01 01:09:46,905 INFO status has been updated to successful
+655d1ca21892ddfe5266a79cdfe92226.nc:   0%|          | 0.00/1.25M [00:00<?, ?B/s]655d1ca21892ddfe5266a79cdfe92226.nc:  80%|███████▉  | 1.00M/1.25M [00:01<00:00, 902kB/s]                                                                                        2026-01-01 01:09:49,404 INFO Request ID is fd956418-8f82-4433-ab38-3ccd58786577
+2026-01-01 01:09:49,551 INFO status has been updated to accepted
+2026-01-01 01:10:11,232 INFO status has been updated to running
+2026-01-01 01:11:44,312 INFO status has been updated to successful
+77b77403f28a3c12395b5a91954f2b9d.nc:   0%|          | 0.00/1.19M [00:00<?, ?B/s]77b77403f28a3c12395b5a91954f2b9d.nc:  84%|████████▍ | 1.00M/1.19M [00:01<00:00, 824kB/s]                                                                                        2026-01-01 01:11:47,060 INFO Request ID is 275c8950-051b-4fed-a9eb-963fcb71dc00
+2026-01-01 01:11:47,200 INFO status has been updated to accepted
+2026-01-01 01:12:37,551 INFO status has been updated to running
+2026-01-01 01:13:41,880 INFO status has been updated to successful
+41c552bcf748654c9da3f02413781bc9.nc:   0%|          | 0.00/366k [00:00<?, ?B/s]41c552bcf748654c9da3f02413781bc9.nc: 100%|██████████| 366k/366k [00:00<00:00, 430kB/s]                                                                                      2026-01-01 01:13:44,394 INFO Request ID is 3f9a92ab-38b6-4c01-8ae4-94c00bafad1c
+2026-01-01 01:13:44,540 INFO status has been updated to accepted
+2026-01-01 01:13:53,216 INFO status has been updated to running
+2026-01-01 01:15:39,386 INFO status has been updated to successful
+7c4645bd5f5f5a743c02f4bcc18f4626.nc:   0%|          | 0.00/338k [00:00<?, ?B/s]7c4645bd5f5f5a743c02f4bcc18f4626.nc: 100%|██████████| 338k/338k [00:00<00:00, 367kB/s]                                                                                      2026-01-01 01:15:41,887 INFO Request ID is 1044e5e8-f388-4907-b293-2e250bea883d
+2026-01-01 01:15:42,013 INFO status has been updated to accepted
+2026-01-01 01:16:04,124 INFO status has been updated to running
+2026-01-01 01:17:37,239 INFO status has been updated to successful
+ef9704bc4477d93982904cf1c6526938.nc:   0%|          | 0.00/1.16M [00:00<?, ?B/s]ef9704bc4477d93982904cf1c6526938.nc:  86%|████████▌ | 1.00M/1.16M [00:00<00:00, 1.11MB/s]                                                                                         2026-01-01 01:17:39,779 INFO Request ID is 11ab7937-0bbd-454f-ac6a-9077c5533b28
+2026-01-01 01:17:39,907 INFO status has been updated to accepted
+2026-01-01 01:18:01,451 INFO status has been updated to running
+2026-01-01 01:19:34,569 INFO status has been updated to successful
+e586e33451645f76112808ab17011a61.nc:   0%|          | 0.00/2.02M [00:00<?, ?B/s]e586e33451645f76112808ab17011a61.nc:  49%|████▉     | 1.00M/2.02M [00:01<00:01, 897kB/s]e586e33451645f76112808ab17011a61.nc:  99%|█████████▉| 2.00M/2.02M [00:01<00:00, 1.93MB/s]                                                                                         2026-01-01 01:19:37,718 INFO Request ID is edcc18da-3c0c-479f-9410-a01ad74be0c7
+2026-01-01 01:19:37,849 INFO status has been updated to accepted
+2026-01-01 01:19:59,375 INFO status has been updated to running
+2026-01-01 01:21:32,438 INFO status has been updated to successful
+a0a1b8c513ed150bc28c93171d59f26f.nc:   0%|          | 0.00/2.02M [00:00<?, ?B/s]a0a1b8c513ed150bc28c93171d59f26f.nc:  49%|████▉     | 1.00M/2.02M [00:01<00:01, 740kB/s]a0a1b8c513ed150bc28c93171d59f26f.nc:  99%|█████████▉| 2.00M/2.02M [00:01<00:00, 1.63MB/s]                                                                                         2026-01-01 01:21:35,595 INFO Request ID is e6a58e08-b3db-4403-ba44-14d8d32abea2
+2026-01-01 01:21:35,723 INFO status has been updated to accepted
+2026-01-01 01:21:49,608 INFO status has been updated to running
+2026-01-01 01:23:30,408 INFO status has been updated to successful
+252a414dbe4faacd9a67f5a76a0e1b52.nc:   0%|          | 0.00/1.60M [00:00<?, ?B/s]252a414dbe4faacd9a67f5a76a0e1b52.nc:  63%|██████▎   | 1.00M/1.60M [00:01<00:00, 978kB/s]                                                                                        2026-01-01 01:23:32,837 INFO Request ID is a09c9847-6b5b-4338-bcfe-6251ab5e1cb4
+2026-01-01 01:23:32,957 INFO status has been updated to accepted
+2026-01-01 01:23:41,785 INFO status has been updated to running
+2026-01-01 01:24:49,199 INFO status has been updated to successful
+174b22573b716771092d55ff31407404.nc:   0%|          | 0.00/1.60M [00:00<?, ?B/s]                                                                                Recovering from connection error [HTTPSConnectionPool(host='object-store.os-api.cci2.ecmwf.int', port=443): Read timed out. (read timeout=60)], attempt 1 of 500
+Retrying in 120 seconds
+174b22573b716771092d55ff31407404.nc:   0%|          | 0.00/1.60M [00:00<?, ?B/s]174b22573b716771092d55ff31407404.nc:  63%|██████▎   | 1.00M/1.60M [00:01<00:00, 1.03MB/s]                                                                                         2026-01-01 01:27:53,428 INFO Request ID is abd8f65f-3211-40bd-b565-4bfd2e080939
+2026-01-01 01:27:53,553 INFO status has been updated to accepted
+2026-01-01 01:28:07,526 INFO status has been updated to running
+2026-01-01 01:29:48,310 INFO status has been updated to successful
+d5a2389a7a212bb0478e05567566fee4.nc:   0%|          | 0.00/1.63M [00:00<?, ?B/s]d5a2389a7a212bb0478e05567566fee4.nc:  61%|██████▏   | 1.00M/1.63M [00:01<00:01, 528kB/s]d5a2389a7a212bb0478e05567566fee4.nc: 100%|██████████| 1.63M/1.63M [00:02<00:00, 768kB/s]                                                                                        2026-01-01 01:29:51,989 INFO Request ID is 855ec130-1d81-4363-be82-0c16038c1642
+2026-01-01 01:29:52,118 INFO status has been updated to accepted
+2026-01-01 01:30:25,699 INFO status has been updated to running
+2026-01-01 01:32:45,540 INFO status has been updated to successful
+7d14ace3394103302204d2758c2eca6.nc:   0%|          | 0.00/272k [00:00<?, ?B/s]7d14ace3394103302204d2758c2eca6.nc: 100%|██████████| 272k/272k [00:00<00:00, 324kB/s]                                                                                     2026-01-01 01:32:47,672 INFO Request ID is 07b3d173-62bb-4467-be25-59c98bcf6427
+2026-01-01 01:32:47,802 INFO status has been updated to accepted
+2026-01-01 01:33:01,646 INFO status has been updated to running
+2026-01-01 01:34:42,845 INFO status has been updated to successful
+3d3829f98f0f4cf1d5c44a33847fd5c3.nc:   0%|          | 0.00/251k [00:00<?, ?B/s]3d3829f98f0f4cf1d5c44a33847fd5c3.nc: 100%|██████████| 251k/251k [00:00<00:00, 294kB/s]                                                                                      2026-01-01 01:34:45,060 INFO Request ID is 431ace81-b77d-4511-9055-d5c09b016818
+2026-01-01 01:34:45,199 INFO status has been updated to accepted
+2026-01-01 01:34:59,021 INFO status has been updated to running
+2026-01-01 01:36:39,823 INFO status has been updated to successful
+e4a772b1241a0d4fa247f0335b6d9d7b.nc:   0%|          | 0.00/1.17M [00:00<?, ?B/s]e4a772b1241a0d4fa247f0335b6d9d7b.nc:  85%|████████▌ | 1.00M/1.17M [00:01<00:00, 828kB/s]                                                                                        2026-01-01 01:36:42,545 INFO Request ID is c76e387d-2c5b-46f1-a73e-07ffd887a2fe
+2026-01-01 01:36:42,677 INFO status has been updated to accepted
+2026-01-01 01:36:51,292 INFO status has been updated to running
+2026-01-01 01:38:37,408 INFO status has been updated to successful
+b71dbf1cf0e6e145e7f2ae6ee047358a.nc:   0%|          | 0.00/1.13M [00:00<?, ?B/s]b71dbf1cf0e6e145e7f2ae6ee047358a.nc:  88%|████████▊ | 1.00M/1.13M [00:01<00:00, 909kB/s]                                                                                        2026-01-01 01:38:40,034 INFO Request ID is c3610975-031c-4f23-95d9-ecf981e47edf
+2026-01-01 01:38:40,167 INFO status has been updated to accepted
+2026-01-01 01:38:54,004 INFO status has been updated to running
+2026-01-01 01:40:34,899 INFO status has been updated to successful
+31cbd5b94b5bdb6ba1b20c0320cdb772.nc:   0%|          | 0.00/356k [00:00<?, ?B/s]31cbd5b94b5bdb6ba1b20c0320cdb772.nc: 100%|██████████| 356k/356k [00:00<00:00, 387kB/s]                                                                                      2026-01-01 01:40:37,308 INFO Request ID is 575d5f48-cc25-4d5e-9007-664804f4e3ba
+2026-01-01 01:40:37,446 INFO status has been updated to accepted
+2026-01-01 01:40:59,036 INFO status has been updated to running
+2026-01-01 01:42:32,129 INFO status has been updated to successful
+6091c487012771855dd0086783ba3603.nc:   0%|          | 0.00/328k [00:00<?, ?B/s]6091c487012771855dd0086783ba3603.nc: 100%|██████████| 328k/328k [00:00<00:00, 393kB/s]                                                                                      2026-01-01 01:42:34,655 INFO Request ID is b08a9347-6944-4fc0-9cd8-c7e55ab8924f
+2026-01-01 01:42:34,791 INFO status has been updated to accepted
+2026-01-01 01:42:43,724 INFO status has been updated to running
+2026-01-01 01:44:29,725 INFO status has been updated to successful
+88c42fe2a0c3af038c06f16a0b4772bc.nc:   0%|          | 0.00/1.09M [00:00<?, ?B/s]88c42fe2a0c3af038c06f16a0b4772bc.nc:  92%|█████████▏| 1.00M/1.09M [00:01<00:00, 911kB/s]                                                                                        2026-01-01 01:44:32,126 INFO Request ID is 40f3a423-a55f-4aad-8730-db93ad7a1ba9
+2026-01-01 01:44:32,265 INFO status has been updated to accepted
+2026-01-01 01:45:22,591 INFO status has been updated to running
+2026-01-01 01:47:25,810 INFO status has been updated to successful
+3bfaa7d35436290adf05ab1e40e4b1c7.nc:   0%|          | 0.00/2.09M [00:00<?, ?B/s]3bfaa7d35436290adf05ab1e40e4b1c7.nc:  48%|████▊     | 1.00M/2.09M [00:00<00:01, 1.06MB/s]3bfaa7d35436290adf05ab1e40e4b1c7.nc:  96%|█████████▌| 2.00M/2.09M [00:01<00:00, 2.24MB/s]                                                                                         2026-01-01 01:47:28,193 INFO Request ID is 9184b044-7e3d-4d5b-817b-03b50017e9a0
+2026-01-01 01:47:28,319 INFO status has been updated to accepted
