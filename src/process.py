@@ -5,6 +5,9 @@ import xarray as xr
 import numpy as np
 import pandas as pd
 
+import warnings
+warnings.filterwarnings("ignore")
+
 PROJ_DIR = Path(__file__).resolve().parents[1]
 RAW_DIR = PROJ_DIR / "data" / "raw"
 PROC_DIR = PROJ_DIR / "data" / "processed"
@@ -20,12 +23,9 @@ def process_month(month,year):
     )
 
     # combine low and high vegetation
-    total_lai = (ds['lai_hv']*ds['cvh']) +  (ds['lai_lv']*ds['cvl'])
+    ds['overlap'] = xr.ufuncs.minimum(ds['cvh'], ds['cvl'])
+    total_lai = (ds['lai_hv']*ds['cvh']) +  (ds['lai_lv']*ds['cvl']) - (ds['overlap']*ds['lai_lv'])
     ds['lai'] = total_lai
-
-    # mask out sea
-    precip = ds['tp'] * ds['lsm']
-    ds['tp'] = precip
 
     # Save Month Data
     output_file = RAW_DIR / f"era_{year}_{month:02d}.nc"
