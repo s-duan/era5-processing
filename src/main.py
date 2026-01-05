@@ -8,10 +8,9 @@ years = [1980,1981,1982,2015]
 
 for j in years:
     for i in range(1,13):
-        if j == 1982 and i <= 7:
-            continue
         month = i
-        download_var(i,j)
-        # process_month(i,j)
-    # merge_months(j)
+        if j == 1982 and i <= 7:
+            download_var(i,j)
+        process_month(i,j)
+    merge_months(j)
 
