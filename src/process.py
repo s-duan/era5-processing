@@ -28,7 +28,7 @@ def process_month(month,year):
     ds['lai'] = total_lai
 
     # Save Month Data
-    output_file = RAW_DIR / f"era_{year}_{month:02d}.nc"
+    output_file = PROC_DIR / monthly / f"era_{year}_{month:02d}.nc"
     encoding = {var: {"zlib": True, "complevel": 5} for var in ds.data_vars}
     ds.to_netcdf(output_file, engine="h5netcdf", encoding=encoding)
     ds.close()
